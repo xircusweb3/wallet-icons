@@ -1,0 +1,8 @@
+{
+  "name": "@xircus-web3/wallet-icons",
+  "version": "1.0.0",
+  "description": "Wallet and Crypto Icons",
+  "main": "index.js",
+  "author": "Xircus",
+  "license": "MIT"
+}
